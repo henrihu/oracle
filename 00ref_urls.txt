@@ -1,0 +1,28 @@
+- source code
+
+https://github.com/oracle/python-oracledb
+
+https://github.com/oracle/python-cx_Oracle
+
+
+- wheels
+
+https://pypi.org/project/cx-Oracle/#files
+
+https://pypi.org/project/oracledb/#files
+
+
+- tutorial
+
+https://www.oracletutorial.com/python-oracle/
+https://www.oracletutorial.com/python-oracle/connecting-to-oracle-database-in-python/
+https://www.oracletutorial.com/python-oracle/querying-data-using-fetchone-fetchmany-and-fetchall-methods/
+https://www.oracletutorial.com/python-oracle/bind-variables/
+https://www.oracletutorial.com/python-oracle/inserting-data/
+https://www.oracletutorial.com/python-oracle/updating-data/
+https://www.oracletutorial.com/python-oracle/deleting-data-from-oracle-database-in-python/
+https://www.oracletutorial.com/python-oracle/transactions/
+https://www.oracletutorial.com/python-oracle/calling-a-plsql-procedure-in-python/
+https://www.oracletutorial.com/python-oracle/calling-plsql-stored-function-in-python/
+
+
